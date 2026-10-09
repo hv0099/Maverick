@@ -1,0 +1,6 @@
+{
+  "name": "Maverick Healthcare",
+  "description": "Maverick Comprehensive Healthcare Platform with Doctor Appointments, Patient Portals, and Multi-Role Hospital Administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
